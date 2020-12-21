@@ -1,0 +1,17 @@
+current directory: C:/Users/romankr/Documents/docs/git/mm-github-pages-starter/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+C:/Users/romankr/Ruby27-x64/bin/ruby.exe -I C:/Users/romankr/Ruby27-x64/lib/ruby/2.7.0 -r ./siteconf20201221-21556-nuqn5q.rb extconf.rb
+creating Makefile
+
+current directory: C:/Users/romankr/Documents/docs/git/mm-github-pages-starter/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: C:/Users/romankr/Documents/docs/git/mm-github-pages-starter/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR="
+generating ruby_http_parser-x64-mingw32.def
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: C:/Users/romankr/Documents/docs/git/mm-github-pages-starter/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20201221-21556-19ky596
