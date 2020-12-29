@@ -104,10 +104,14 @@ defaults:
       share: true
       related: true
 
-#comments:
-#  provider               : "disqus" #false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
-#  disqus:
-#    shortname            : cross-validated # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+
+
+comments:
+  provider               : "disqus" #false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  disqus:
+    shortname            : https-scriptingforgood-github-io-mm-start # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+
+
 
   # _pages
   - scope:
