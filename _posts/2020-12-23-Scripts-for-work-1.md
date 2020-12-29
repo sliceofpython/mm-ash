@@ -16,6 +16,3 @@ source: [devblogs.microsoft.com](https://devblogs.microsoft.com/scripting/use-wi
 
 Get-Childitem –Path C:\ -Recurse
 Get-Childitem –Path C:\ -Include *HSG* -Exclude *.JPG,*.MP3,*.TMP -File -Recurse -ErrorAction SilentlyContinue
-
-$FindDate=Get-Date -Year 2020 -Month 11 -Day 10 
-Get-ChildItem -Path C:\users\ -Include *txt -File -Recurse | Where-Object { $_.LastWriteTime -ge $FindDate }
