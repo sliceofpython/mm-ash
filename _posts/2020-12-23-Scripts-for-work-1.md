@@ -1,8 +1,6 @@
 ---
 title: "Post: Scripts For Work"
 last_modified_at: 2020-10-09T16:20:02-05:00
-categories:
-  - Blog
 tags:
   - PowerShell
   - readability

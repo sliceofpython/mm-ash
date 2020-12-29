@@ -1,13 +1,13 @@
 ---
 title: "Post: Git commands"
-categories:
-  - Blog
+#categories:
+#  - Blog
 tags:
   - chat
   - Post Formats
 ---
 git remote -v 
-git add --all
+git add --all (git add .)
 git commit -m 'another commit'
 git push
 

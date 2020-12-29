@@ -24,6 +24,9 @@ github_username: username
 minimal_mistakes_skin: default
 search: true
 
+# Measurement ID: G-1CDNNCV2JZ
+# add google tracking_id and set anonymize_ip to true?
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -99,6 +102,12 @@ defaults:
       comments: true
       share: true
       related: true
+
+#comments:
+#  provider               : "disqus" #false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+#  disqus:
+#    shortname            : cross-validated # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+
   # _pages
   - scope:
       path: "_pages"
