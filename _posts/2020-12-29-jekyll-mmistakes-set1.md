@@ -1,5 +1,5 @@
 ---
-title: "Post: Git commands"
+title: "Post: Jekyll settings with Minimal Mistakes theme"
 tags:
   - chat
   - Post Formats
