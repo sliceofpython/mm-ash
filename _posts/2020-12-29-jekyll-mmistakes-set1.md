@@ -8,5 +8,5 @@ tags:
 Dec 2020
 
 Setting comments and Analytics: 
-(Katerina's website)[https://www.cross-validated.com/Personal-website-with-Minimal-Mistakes-Jekyll-Theme-HOWTO-Part-IV/]
+[Katerina's website](https://www.cross-validated.com/Personal-website-with-Minimal-Mistakes-Jekyll-Theme-HOWTO-Part-IV/)
 
