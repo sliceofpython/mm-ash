@@ -5,10 +5,11 @@ categories:
   - Blog
 tags:
   - PowerShell
-  - readability
+  - Git
   - standard
 ---
-Git and PowerShell 
+Git and GitHub, PowerShell, VS Code. 
+Adding to this mix Jekyll with Minimal Mistakes theme. 
 
 ## sources:
 1. [Start using Git for PowerShell scripts](https://4bes.nl/2019/06/02/step-by-step-start-using-git-for-powershell/)
