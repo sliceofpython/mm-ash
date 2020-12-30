@@ -104,11 +104,6 @@ defaults:
       share: true
       related: true
 
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: https-scriptingforgood-github-io-mm-start # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-
   # _pages
   - scope:
       path: "_pages"
