@@ -107,9 +107,9 @@ defaults:
 
 
 comments:
-  provider               : "disqus" #false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider: "disqus" #false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : https-scriptingforgood-github-io-mm-start # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname: https-scriptingforgood-github-io-mm-start # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 
 
 
