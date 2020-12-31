@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 #twitter_username: username
 github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: "sunrise"
 search: true
 
 # Measurement ID: G-1CDNNCV2JZ
@@ -62,7 +62,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Paul Zh"
+  name   : "Ash"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "biography constrained to a sentence or two goes here"
   links:
